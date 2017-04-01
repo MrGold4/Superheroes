@@ -20,3 +20,13 @@
                 "/shot give ". @plr ." rubberchickenbomb" 
             )
         )
+trickster:
+    inheritance:
+    - commonherotraits
+    options:
+      prefix: '§eTr§1ic§eks§fter'
+      suffix: '&a'
+    worlds:
+      survival:
+        permissions:
+        - ch.alias.trickster
